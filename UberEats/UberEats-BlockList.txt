@@ -12,3 +12,6 @@
 0.0.0.0 duyt4h9nfnj50.cloudfront.net
 0.0.0.0 cn-ecg.cfe.uber.com
 0.0.0.0 e1329.g.akamaiedge.net
+0.0.0.0 smoot-searchv2-euw1c.v.aaplimg.com
+0.0.0.0 api2.branch.io
+0.0.0.0 auth3.uber.com
