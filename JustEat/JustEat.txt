@@ -1,1 +1,10 @@
-
+0.0.0.0 www.just-eat.co.uk
+0.0.0.0 just-eat-prod-eu-res.cloudinary.com	
+0.0.0.0 hygieneratingscdn.je-apis.com	
+0.0.0.0 menu-globalmenucdn.je-apis.com	
+0.0.0.0 uk.api.just-eat.io	
+0.0.0.0 logging.je-apps.com	
+0.0.0.0 public.je-apis.com	
+0.0.0.0 serviceinformationassets-production.je-apis.com	
+0.0.0.0 e673.dsce9.akamaiedge.net	
+0.0.0.0 d30v2pzvrfyzpo.cloudfront.net	
