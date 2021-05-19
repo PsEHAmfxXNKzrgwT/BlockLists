@@ -1,5 +1,4 @@
 0.0.0.0 www.ubereats.com
-0.0.0.0 www.gstatic.com
 0.0.0.0 csp.uber.com
 0.0.0.0 d3i4yxtzktqr9n.cloudfront.net
 0.0.0.0 d4p17acsd5wyj.cloudfront.net
