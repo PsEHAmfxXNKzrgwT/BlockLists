@@ -1,1 +1,2 @@
-
+0.0.0.0 scontent-man2-1.xx.fbcdn.net
+0.0.0.0 video-man2-1.xx.fbcdn.net
