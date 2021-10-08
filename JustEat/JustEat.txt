@@ -9,3 +9,4 @@
 0.0.0.0 e673.dsce9.akamaiedge.net	
 0.0.0.0 d30v2pzvrfyzpo.cloudfront.net	
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 hygieneratingscdn.je-apis.com
