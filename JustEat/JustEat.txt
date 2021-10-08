@@ -10,3 +10,4 @@
 0.0.0.0 d30v2pzvrfyzpo.cloudfront.net	
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 hygieneratingscdn.je-apis.com
+0.0.0.0 just-eat-prod-eu-res.cloudinary.com
